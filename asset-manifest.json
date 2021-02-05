@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cutnedge/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/cutnedge/static/js/main.96fedf5a.chunk.js",
+    "main.js.map": "/cutnedge/static/js/main.96fedf5a.chunk.js.map",
+    "runtime-main.js": "/cutnedge/static/js/runtime-main.8ac6341d.js",
+    "runtime-main.js.map": "/cutnedge/static/js/runtime-main.8ac6341d.js.map",
+    "static/js/2.b02232b9.chunk.js": "/cutnedge/static/js/2.b02232b9.chunk.js",
+    "static/js/2.b02232b9.chunk.js.map": "/cutnedge/static/js/2.b02232b9.chunk.js.map",
+    "static/js/3.e2c2fc04.chunk.js": "/cutnedge/static/js/3.e2c2fc04.chunk.js",
+    "static/js/3.e2c2fc04.chunk.js.map": "/cutnedge/static/js/3.e2c2fc04.chunk.js.map",
+    "index.html": "/cutnedge/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/cutnedge/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b02232b9.chunk.js.LICENSE.txt": "/cutnedge/static/js/2.b02232b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ac6341d.js",
+    "static/js/2.b02232b9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.96fedf5a.chunk.js"
+  ]
+}
