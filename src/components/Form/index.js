@@ -3,7 +3,7 @@ import React from "react";
 export function Input(props) {
   return (
     <div className="form-group">
-      <input className="form-control" {...props} style={{ float: "center", marginBottom: 10, paddingLeft: 15, paddingRight: 15 }} />
+      <input className="form-control" {...props} style={{ float: "center", paddingtop: 30, paddingLeft: 15, paddingRight: 15 }} />
     </div>
   );
 }
@@ -11,7 +11,7 @@ export function Input(props) {
 export function TextArea(props) {
   return (
     <div className="form-group">
-      <textarea className="form-control" rows="20" {...props} />
+      <textarea className="form-control" rows="10" {...props} />
     </div>
   );
 }
